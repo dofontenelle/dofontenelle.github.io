@@ -13,4 +13,4 @@ This repository will hold my assignments.
 
 ## Essential Websites for Completing Homework  
 * Access to Blackboard is done through [waketech.edu.](www.waketech.edu) Waketech.edu and Blackboard are essential for knowing what assignments are due and when.
-* Homework is submitted through [GitLab.com](about.gitlab.com) GitLab will be the training ground for testing are knowledge base.
+* Homework is submitted through [GitLab.com](about.gitlab.com) GitLab will be the training ground for testing our knowledge base.
