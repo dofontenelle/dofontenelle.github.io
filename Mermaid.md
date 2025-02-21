@@ -27,5 +27,4 @@ id3 --> id4
 id4 -- No --> id5
 
 id4 -- Yes --> id6 
-
-```mermaid
+```
