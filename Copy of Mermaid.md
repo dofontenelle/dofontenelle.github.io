@@ -8,7 +8,7 @@ flowchart TD
   
   id2 [Outline  Organize your thoughts from the Brainstorming Process Now is the time to begin your Thesis statement.
   
-  id3[Rough Draft  Using your Outline begin to write your paper according to the steps you've laid out for yourself. Now is the time to formalize your Thesis and ideas.]
+  id3 [Rough Draft  Using your Outline begin to write your paper according to the steps you've laid out for yourself. Now is the time to formalize your Thesis and ideas.]
   
   id4 [Is your Rough Draft ready for publishing?]
   
