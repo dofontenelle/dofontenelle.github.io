@@ -16,7 +16,7 @@ id4 -- No --> id5
 id4 -- Yes --> id6 
 
 
-  id1["`The Brainstorming Process  Use this time to come up with ideas for writing. No idea is too small or big during this step.`"]
+  id1[`The Brainstorming Process  Use this time to come up with ideas for writing. No idea is too small or big during this step.`]
   
   id2["`Outline  Organize your thoughts from the Brainstorming Process Now is the time to begin your Thesis statement.`"
   
