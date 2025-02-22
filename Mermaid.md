@@ -1,21 +1,7 @@
 ```mermaid
 ---
-title: The Writing Process Simplified
+title: The Writing Process for General Essays
 ---
-flowchart TD
-
-  id1 ["`The Brainstorming Process  Use this time to come up with ideas for writing. No idea is too small or big during this step.`"]
-  
-  id2 ["`Outline  Organize your thoughts from the Brainstorming Process Now is the time to begin your Thesis statement.`"
-  
-  id3["`Rough Draft  Using your Outline begin to write your paper according to the steps you've laid out for yourself. Now is the time to formalize your Thesis and ideas.`"]
-  
-  id4 [Is your Rough Draft ready for publishing?]
-  
-  id5 [Critique your Rough Draft expanding on or zoning in on ideas, checking for grammar, tone, etc.]
-  
-  id6 ["`Publish  Your Rough Draft is now ready for finalizing.`"]
-
 flowchart TD
 
 id1 --> id2
@@ -26,5 +12,17 @@ id3 --> id4
 
 id4 -- No --> id5
 
-id4 -- Yes --> id6 
+id4 -- Yes --> id6
+
+  id1[Brainstorming  Choose a topic. You want to generate as many ideas as possible about your topic, often called freewriting.]
+  
+  id2[Outline  Organize your thoughts and ideas as you develop your main point and how best to deliver it to your intended audience. You may also want to explore the purpose of your essay. Ask yourself why your paper matters? Once you have your main point, how best to deliver it to your audience, and the purpose of your essay, begin building your thesis. Your thesis is the main point of your essay after it is refined.]
+ 
+  id3[Drafting  Begin drafting the first, second, third, or even tenth version of your essay. Develop your thesis, thoughts, and arguments supporting and defending your essay. 
+  
+  id4[Is your Draft ready for publishing?]
+  
+  id5[Critique your Draft  as you dive deeper into the Drafting process. Later revisions focus more on clarity, organization, details, grammar and spelling, sentence structure, and readability.]
+  
+  id6[You're now ready to submit your essay.]
 ```
